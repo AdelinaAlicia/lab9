@@ -1,5 +1,3 @@
-S-a folosit mysql-connector.jar din folder.
-Tabelele create cu SQL command line (si multe tutoriale de dat privilegii)
 
 Pentru laboratorul 9 de astazi:
 1. Am copiat proiectul anterior si am adaugat Hibernate la proiect:
